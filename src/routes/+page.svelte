@@ -82,11 +82,3 @@
     </button>
   </div>
 </main>
-
-<style>
-  .reload:hover {
-    -webkit-box-shadow: 10px 10px 5px 0px rgba(255, 255, 255, 0.75);
-    -moz-box-shadow: 10px 10px 5px 0px rgba(255, 255, 255, 0.75);
-    box-shadow: 10px 10px 5px 0px rgba(255, 255, 255, 0.75);
-  }
-</style>
